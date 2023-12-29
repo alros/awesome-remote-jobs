@@ -33,6 +33,7 @@ I never actively used any of these
 * [FleX Jobs](https://www.flexjobs.com): it requires a subscription
 * [Hubstaff Talent](https://hubstafftalent.net)
 * [Infosec Jobs](https://infosec-jobs.com/): focus on cybersecurity
+* [Italia Remote](https://italiaremote.com/companies): list of remote-friendly italian companies
 * [Jobgether](https://en.jobgether.com)
 * [JSRemotely](https://jsremotely.com/): focus on javascript
 * [Landing Jobs](https://landing.jobs)
