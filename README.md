@@ -1,6 +1,6 @@
-# Remote-jobs list
+# Remote-jobs list [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-My personal list focused on software engineering.
+A list of job boards focused on software engineering and remote jobs.
 
 ## Best
 Websites that helped me get interviews and jobs
@@ -28,7 +28,6 @@ Pure freelancing platforms
 * ~Upwork~: [I don't recommend this website because they can ban you for no reason](https://medium.com/@albertorossotto/about-the-right-to-be-forgotten-1d50f1f66a45)
 
 ## Other websites
-I never actively used any of these
 * [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/): focus on crypto
 * [FleX Jobs](https://www.flexjobs.com): it requires a subscription
 * [Hubstaff Talent](https://hubstafftalent.net)
