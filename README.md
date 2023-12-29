@@ -34,7 +34,7 @@ Pure freelancing platforms.
 - [Freelancer.com](https://www.freelancer.com/)
 - [Guru](https://www.guru.com/)
 - [People Per Hour](https://www.peopleperhour.com/)
-- [Toptal](https://www.toptal.com/) - $xclusive with a very strict selection process.
+- [Toptal](https://www.toptal.com/) - Exclusive with a very strict selection process.
 - ~Upwork~ - [I don't recommend this website because they can ban you for no reason](https://medium.com/@albertorossotto/about-the-right-to-be-forgotten-1d50f1f66a45).
 
 ## Other websites
