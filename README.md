@@ -101,7 +101,7 @@ I never found anything useful here, but maybe it was just bad luck
 
 ---
 
-## Dead (?) websites
+## Dead or inactive websites
 I keep these for future reference
 * [Europe Remotely](http://europeremotely.com/)
 * [Flockingbird](https://search.flockingbird.social/)
@@ -114,4 +114,5 @@ I keep these for future reference
 * [Remote Leads](https://remoteleads.io/)
 * [Remote Work Hub](https://remoteworkhub.com/)
 * [Smooth Remote](https://smoothremote.com)
+* [Remotesome](https://www.remotesome.com): I got a few interviews from this one
 * [Techloop](https://jobs.techloop.io)
