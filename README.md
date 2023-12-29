@@ -1,6 +1,16 @@
-# Remote-jobs list [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Remote-Jobs List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A list of job boards focused on software engineering and remote jobs.
+
+## Contents
+- [Best](#best)
+- [Promising](#promising)
+- [Freelance Marketplaces](#freelance-marketplaces)
+- [Other websites](#other-websites)
+- [More links](#more-links)
+- [Misc](#misc)
+- [Other lists](#other-lists)
+- [Dead or inactive websites](#dead-or-inactive-websites)
 
 ## Best
 Websites that helped me get interviews and jobs
@@ -97,8 +107,6 @@ I never found anything useful here, but maybe it was just bad luck
 
 ## Other lists
 * [https://github.com/lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
-
----
 
 ## Dead or inactive websites
 I keep these for future reference
