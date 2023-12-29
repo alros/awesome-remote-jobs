@@ -96,7 +96,12 @@ I never found anything useful here, but maybe it was just bad luck
 * [Teachaway](https://www.teachaway.com/): for teachers
 * [Uplers](https://www.uplers.com/): Indians only
 
-# Dead (?)
+## Other lists
+* [https://github.com/lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+
+---
+
+## Dead (?) websites
 I keep these for future reference
 * [Europe Remotely](http://europeremotely.com/)
 * [Flockingbird](https://search.flockingbird.social/)
