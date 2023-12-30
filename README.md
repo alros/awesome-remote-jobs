@@ -24,6 +24,7 @@ Websites where I found leads.
 - [Devsdata](https://devsdata.com/careers/)
 - [Dynamite Jobs](https://dynamitejobs.com/) - 100% remote from remote-first companies.
 - [Flexa](https://flexa.careers/) - Reviews of remote-friendly companies.
+- [Freelancing Females](https://jobs.freelancingfemales.com) - Focus on freelancing and women.
 - [Otta](https://otta.com)
 - [Remote Ok](https://remoteok.com)
 
