@@ -33,6 +33,7 @@ Pure freelancing platforms.
 - [Arc()](https://arc.dev)
 - [Contra](https://contra.com)
 - [Freelancer.com](https://www.freelancer.com/)
+- [Gun.io](https://gun.io/) - It doesn't accept new members.
 - [Guru](https://www.guru.com/)
 - [People Per Hour](https://www.peopleperhour.com/)
 - [Toptal](https://www.toptal.com/) - Exclusive with a very strict selection process.
