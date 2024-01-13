@@ -32,7 +32,9 @@ Websites where I found leads.
 Pure freelancing platforms.
 - [Arc()](https://arc.dev)
 - [Contra](https://contra.com)
+- [Fiverr](https://www.fiverr.com/)
 - [Freelancer.com](https://www.freelancer.com/)
+- [FreelancerMap](https://www.freelancermap.com)
 - [Gun.io](https://gun.io/) - It doesn't accept new members.
 - [Guru](https://www.guru.com/)
 - [People Per Hour](https://www.peopleperhour.com/)
@@ -43,6 +45,7 @@ Pure freelancing platforms.
 - [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/) - Focus on crypto.
 - [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
 - [Hubstaff Talent](https://hubstafftalent.net)
+- [Inclusively Remote](https://inclusivelyremote.com/)
 - [Infosec Jobs](https://infosec-jobs.com/) - Focus on cybersecurity.
 - [Italia Remote](https://italiaremote.com/companies) - List of remote-friendly italian companies.
 - [Jobgether](https://en.jobgether.com)
@@ -53,6 +56,7 @@ Pure freelancing platforms.
 - [NoDesk](https://nodesk.co)
 - [OfferZen](https://www.offerzen.com)
 - [OpenTalent](https://opentalent.co)
+- [Outsourcely](https://www.outsourcely.com/)
 - [Pangian](https://pangian.com)
 - [People-First Jobs](https://peoplefirstjobs.com)
 - [Remote.co](https://remote.co)
@@ -60,6 +64,7 @@ Pure freelancing platforms.
 - [RemoteHub](https://www.remotehub.com)
 - [Remote Junkie](https://jobs.remoteworkjunkie.com) - Mostly US-based.
 - [Remote Tribe](https://www.remotetribe.life)
+- [Remote Rebellion](https://remoterebellion.com/)
 - [Remoters](https://remoters.net)
 - [RemoteWoman](https://remotewoman.com) - Female-friendly, US-based.
 - [RemoteWX](https://remotewx.com)
@@ -68,6 +73,7 @@ Pure freelancing platforms.
 - [Snaphunt](https://snaphunt.com)
 - [Talent.io](https://www.talent.io/p/en-fr/home)
 - [YCombinator](https://www.ycombinator.com/jobs/role/all/remote/)
+- [Yentalist](https://yentalist.com/)
 - [We Work Remotely](https://weworkremotely.com)
 - [Workew](https://workew.com)
 - [Working Nomads](https://www.workingnomads.com/jobs)
@@ -98,6 +104,8 @@ I never found anything useful here, but maybe it was just bad luck.
 - [Design Hill](https://www.designhill.com) - Creative jobs.
 - [Dribble](https://dribbble.com) - Creative jobs.
 - [Ladders](https://www.theladders.com) - To find 100k+ jobs.
+- [Lore](https://lorewritingschool.com/job-boards/) - For writers.
+- [Mayple](https://mayple.webflow.io/) - For marketing.
 - [Product Hunt](https://www.producthunt.com) - Ideas and products (no more job section?).
 - [Remote First Institute](https://remote-first.institute) - A community.
 - [Remote Workmate](https://www.linkedin.com/company/remote-workmate/) - Filipinos only.
