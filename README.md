@@ -42,6 +42,7 @@ Pure freelancing platforms.
 - ~Upwork~ - [I don't recommend this website because they can ban you for no reason](https://medium.com/@albertorossotto/about-the-right-to-be-forgotten-1d50f1f66a45).
 
 ## Other websites
+- [Crossover](https://www.crossover.com/)
 - [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/) - Focus on crypto.
 - [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
 - [Hubstaff Talent](https://hubstafftalent.net)
