@@ -6,7 +6,7 @@ A list of job boards focused on software engineering and remote jobs.
 - [Best](#best)
 - [Promising](#promising)
 - [Freelance Marketplaces](#freelance-marketplaces)
-- [Directory](#Directory)
+- [Directory](#directory)
 - [Other websites](#other-websites)
 - [More links](#more-links)
 - [Misc](#misc)
