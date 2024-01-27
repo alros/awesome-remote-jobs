@@ -6,6 +6,7 @@ A list of job boards focused on software engineering and remote jobs.
 - [Best](#best)
 - [Promising](#promising)
 - [Freelance Marketplaces](#freelance-marketplaces)
+- [Directory](#Directory)
 - [Other websites](#other-websites)
 - [More links](#more-links)
 - [Misc](#misc)
@@ -43,13 +44,12 @@ Pure freelancing platforms.
 - ~Upwork~ - [I don't recommend this website because they can ban you for no reason](https://medium.com/@albertorossotto/about-the-right-to-be-forgotten-1d50f1f66a45).
 
 ## Directory
-Lists.
-- [Job Board Search](https://jobboardsearch.com/) - Lists of job boards
+Other lists.
+- [Job Board Search](https://jobboardsearch.com/) - Lists of job boards.
 
 ## Other websites
-- [.NET Remotely](https://dotnetremotely.com) - Focus on .NET
+- [.NET Remotely](https://dotnetremotely.com) - Focus on .NET.
 - [Anywhere100](https://anywhere100.com/)
-- [Builtin](https://builtin.com/) - US.
 - [Crossover](https://www.crossover.com/)
 - [Crunchboard](https://www.crunchboard.com/) - US.
 - [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/) - Focus on crypto.
@@ -73,8 +73,8 @@ Lists.
 - [Montreal Developer Jobs](https://www.montrealdeveloperjobs.com) - For Montreal.
 - [NoCommute](https://www.nocommutejob.com/) - Newsletter, with subscription.
 - [NoDesk](https://nodesk.co)
-- [OfferZen](https://www.offerzen.com
-- [Open To Work Remotely](https://www.opentoworkremote.com/))
+- [OfferZen](https://www.offerzen.com)
+- [Open To Work Remotely](https://www.opentoworkremote.com/)
 - [OpenTalent](https://opentalent.co)
 - [Outsourcely](https://www.outsourcely.com/)
 - [Pangian](https://pangian.com)
@@ -138,7 +138,7 @@ Not the first choice to find remote jobs in software development, but still usef
 - [Company Brew](https://companybrew.com) - For New Zeland.
 - [DAO Match](https://daomatch.xyz)
 - [Design Hill](https://www.designhill.com) - Creative jobs.
-- [Digital Marketing Jobs](https://www.digitalmarketingjobs.com) - Digital Marketing, SEO, social media...
+- [Digital Marketing Jobs](https://www.digitalmarketingjobs.com) - Digital Marketing, SEO, social media, and more.
 - [Dribble](https://dribbble.com) - Creative jobs.
 - [Froog](https://froog.co) - Blockchain & Web3 industry.
 - [Get Outdoor Jobs](https://getoutdoorjobs.com) - Mostly America, focus on the outdoor industry.
@@ -163,7 +163,7 @@ Not the first choice to find remote jobs in software development, but still usef
 - [Travel Massive](https://www.travelmassive.com) - For digital nomads and creators.
 - [Uplers](https://www.uplers.com/) - Indians only?
 - [What Jobs](https://www.whatjobs.com/) - US and France.
-- [Woody](https://www.woodyjobs.com) - Creative, design, games, social...
+- [Woody](https://www.woodyjobs.com) - Creative, design, games, social, and more.
 
 ## Other lists
 - [https://github.com/lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
