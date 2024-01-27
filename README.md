@@ -45,6 +45,7 @@ Pure freelancing platforms.
 
 ## Directory
 Other lists.
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 - [Job Board Search](https://jobboardsearch.com/) - Lists of job boards.
 
 ## Other websites
@@ -164,9 +165,6 @@ Not the first choice to find remote jobs in software development, but still usef
 - [Uplers](https://www.uplers.com/) - Indians only?
 - [What Jobs](https://www.whatjobs.com/) - US and France.
 - [Woody](https://www.woodyjobs.com) - Creative, design, games, social, and more.
-
-## Other lists
-- [https://github.com/lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 
 ## Dead or inactive websites
 I keep these for future reference.
