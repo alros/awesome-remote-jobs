@@ -1,6 +1,6 @@
 # Remote-Jobs List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list of job boards focused on software engineering and remote jobs.
+Opinionated list of job boards focused on software engineering and remote jobs.
 
 ## Contents
 - [Best](#best)
