@@ -10,7 +10,6 @@ A list of job boards focused on software engineering and remote jobs.
 - [Other websites](#other-websites)
 - [More links](#more-links)
 - [Misc](#misc)
-- [Other lists](#other-lists)
 - [Dead or inactive websites](#dead-or-inactive-websites)
 
 ## Best
