@@ -50,12 +50,14 @@ Other lists.
 ## Other websites
 - [.NET Remotely](https://dotnetremotely.com) - Focus on .NET.
 - [Anywhere100](https://anywhere100.com/)
+- [ArbeitNow](https://www.arbeitnow.com) - Focus on Germany.
 - [Crossover](https://www.crossover.com/)
 - [Crunchboard](https://www.crunchboard.com/) - US.
 - [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/) - Focus on crypto.
 - [Data Science Jobs](https://datasciencejobs.com) - Focus on data science.
 - [Dataaxy](https://dataaxy.com) - Focus on data science and AI, America.
 - [Echojobs](https://echojobs.io)
+- [Eures](https://eures.europa.eu/index_en) - By the EU Commission.
 - [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
 - [Found.dev](https://found.dev/)
 - [Frauvis](https://www.frauvis.com) - Focus on black women.
