@@ -142,6 +142,7 @@ Not the first choice to find remote jobs in software development, but still usef
 - [Design Hill](https://www.designhill.com) - Creative jobs.
 - [Digital Marketing Jobs](https://www.digitalmarketingjobs.com) - Digital Marketing, SEO, social media, and more.
 - [Dribble](https://dribbble.com) - Creative jobs.
+- [Fintech Marketers](https://fintechmarketers.com/) - Fintech.
 - [Froog](https://froog.co) - Blockchain & Web3 industry.
 - [Get Outdoor Jobs](https://getoutdoorjobs.com) - Mostly America, focus on the outdoor industry.
 - [Global Talent Space](https://www.globaltalentspace.com)
