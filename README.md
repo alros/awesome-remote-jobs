@@ -51,6 +51,7 @@ Other lists.
 - [.NET Remotely](https://dotnetremotely.com) - Focus on .NET.
 - [Anywhere100](https://anywhere100.com/)
 - [ArbeitNow](https://www.arbeitnow.com) - Focus on Germany.
+- [Career Vault](https://www.careervault.io)
 - [Crossover](https://www.crossover.com/)
 - [Crunchboard](https://www.crunchboard.com/) - US.
 - [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/) - Focus on crypto.
