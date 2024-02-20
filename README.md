@@ -32,6 +32,7 @@ Websites where I found leads.
 Pure freelancing platforms.
 - [Arc()](https://arc.dev)
 - [Contra](https://contra.com)
+- [Distributed](https://www.distributed.com/)
 - [Fiverr](https://www.fiverr.com/)
 - [Freelancer.com](https://www.freelancer.com/)
 - [FreelancerMap](https://www.freelancermap.com)
