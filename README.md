@@ -105,7 +105,7 @@ Other lists.
 - [Threejs](https://www.threejs-job.com)
 - [Trueup](https://www.trueup.io/)
 - [Venture Loop](https://www.ventureloop.com)
-- [Virtual Vocation](https://www.virtualvocations.com/)
+- [Virtual Vocation](https://www.virtualvocations.com/) - Subscription required, focus on USA.
 - [YCombinator](https://www.ycombinator.com/jobs/role/all/remote/)
 - [Yentalist](https://yentalist.com/)
 - [We Work Remotely](https://weworkremotely.com)
