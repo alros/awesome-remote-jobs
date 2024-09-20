@@ -56,6 +56,7 @@ Other lists.
 - [Crossover](https://www.crossover.com/)
 - [Crunchboard](https://www.crunchboard.com/) - US.
 - [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/) - Focus on crypto.
+- [Data Freelancer](https://thedatafreelancer.com/jobboard) - Focus on data science.
 - [Data Science Jobs](https://datasciencejobs.com) - Focus on data science.
 - [Dataaxy](https://dataaxy.com) - Focus on data science and AI, America.
 - [Echojobs](https://echojobs.io)
@@ -101,9 +102,11 @@ Other lists.
 - [Skip The Drive](https://www.skipthedrive.com)
 - [Snaphunt](https://snaphunt.com)
 - [Space Crew](https://spacecrew.com) - Focus on the Space industry.
+- [Still Hiring Today](https://stillhiring.today/)
 - [Talent.io](https://www.talent.io/p/en-fr/home)
 - [Threejs](https://www.threejs-job.com)
 - [Trueup](https://www.trueup.io/)
+- [Underdog](https://underdog.io/) - Focus on startups in the US.
 - [Venture Loop](https://www.ventureloop.com)
 - [Virtual Vocation](https://www.virtualvocations.com/) - Subscription required, focus on USA.
 - [YCombinator](https://www.ycombinator.com/jobs/role/all/remote/)
