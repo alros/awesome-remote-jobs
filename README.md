@@ -10,6 +10,7 @@ Opinionated list of job boards focused on software engineering and remote jobs.
 - [Other websites](#other-websites)
 - [More links](#more-links)
 - [Misc](#misc)
+- [APIs](#APIs)
 - [Dead or inactive websites](#dead-or-inactive-websites)
 
 ## Best
@@ -175,6 +176,9 @@ Not the first choice to find remote jobs in software development, but still usef
 - [Uplers](https://www.uplers.com/) - Indians only?
 - [What Jobs](https://www.whatjobs.com/) - US and France.
 - [Woody](https://www.woodyjobs.com) - Creative, design, games, social, and more.
+
+## APIs
+- [api jobs](https://www.apijobs.dev/) - API to build job boards.
 
 ## Dead or inactive websites
 I keep these for future reference.
