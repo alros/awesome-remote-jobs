@@ -162,6 +162,7 @@ Not the first choice to find remote jobs in software development, but still usef
 - [Mayple](https://mayple.webflow.io/) - For marketing.
 - [Monster](https://www.monster.com)
 - [Paid Media Jobs](https://paidmediajobs.com) - Marketing.
+- [Pangea](https://pangea.ai) - For agencies.
 - [Product Hunt](https://www.producthunt.com) - Ideas and products (no more job section?).
 - [Remote First Institute](https://remote-first.institute) - A community.
 - [Remote Workmate](https://www.linkedin.com/company/remote-workmate/) - Filipinos only.
