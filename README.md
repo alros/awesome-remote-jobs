@@ -52,7 +52,6 @@ Other lists.
 
 ## Other websites
 - [.NET Remotely](https://dotnetremotely.com) - Focus on .NET.
-- [Anywhere100](https://anywhere100.com/)
 - [ArbeitNow](https://www.arbeitnow.com) - Focus on Germany.
 - [Career Vault](https://www.careervault.io) - Companies that prioritize employee well-being.
 - [Crossover](https://www.crossover.com/)
@@ -184,6 +183,7 @@ Not the first choice to find remote jobs in software development, but still usef
 
 ## Dead or inactive websites
 I keep these for future reference.
+- [Anywhere100](https://anywhere100.com/)
 - [Europe Remotely](http://europeremotely.com/)
 - [Flockingbird](https://search.flockingbird.social/)
 - [FreshRemote.Work](https://freshremote.work)
