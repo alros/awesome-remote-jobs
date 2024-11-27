@@ -38,6 +38,7 @@ Pure freelancing platforms.
 - [Freelancer.com](https://www.freelancer.com/)
 - [FreelancerMap](https://www.freelancermap.com)
 - [Gigged.AI](https://app.gigged.ai/find-a-gig)
+- [Gigster](https://gigster.com/)
 - [Gun.io](https://gun.io/) - It doesn't accept new members.
 - [Guru](https://www.guru.com/)
 - [People Per Hour](https://www.peopleperhour.com/)
