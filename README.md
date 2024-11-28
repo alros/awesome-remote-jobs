@@ -107,6 +107,7 @@ Other lists.
 - [Talent.io](https://www.talent.io/p/en-fr/home)
 - [Threejs](https://www.threejs-job.com)
 - [Trueup](https://www.trueup.io/)
+- [Trust In Soda](https://www.trustinsoda.com/jobs)
 - [Underdog](https://underdog.io/) - Focus on startups in the US.
 - [Venture Loop](https://www.ventureloop.com)
 - [Virtual Vocation](https://www.virtualvocations.com/) - Subscription required, focus on USA.
