@@ -104,7 +104,7 @@ Other lists.
 - [Snaphunt](https://snaphunt.com)
 - [Space Crew](https://spacecrew.com) - Focus on the Space industry.
 - [Still Hiring Today](https://stillhiring.today/)
-- [Talent.io](https://www.talent.io/p/en-fr/home)
+- [Talent.io](https://www.talent.io/p/en-fr/home) - France only.
 - [Threejs](https://www.threejs-job.com)
 - [Trueup](https://www.trueup.io/)
 - [Trust In Soda](https://www.trustinsoda.com/jobs)
