@@ -80,6 +80,7 @@ Other lists.
 - [NoCommute](https://www.nocommutejob.com/) - Newsletter, with subscription.
 - [NoDesk](https://nodesk.co)
 - [OfferZen](https://www.offerzen.com)
+- [OmniJobs](https://omnijobs.io)
 - [Open To Work Remotely](https://www.opentoworkremote.com/)
 - [OpenTalent](https://opentalent.co)
 - [Outsourcely](https://www.outsourcely.com/)
