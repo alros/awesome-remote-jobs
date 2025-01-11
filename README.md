@@ -4,30 +4,26 @@ Opinionated list of job boards focused on software engineering and remote jobs.
 
 ## Contents
 - [Best](#best)
-- [Promising](#promising)
 - [Freelance Marketplaces](#freelance-marketplaces)
 - [Directory](#directory)
 - [Other websites](#other-websites)
 - [More links](#more-links)
 - [Misc](#misc)
-- [APIs](#APIs)
+- [APIs](#apis)
 - [Dead or inactive websites](#dead-or-inactive-websites)
 
 ## Best
 Websites that helped me get interviews and jobs.
 - [Cord](https://cord.co/) - Mostly UK-based.
-- [LinkedIn](https://www.linkedin.com/jobs/)
-- [Powertofly](https://powertofly.com/jobs/) - Mostly US-based.
-- [Wellfound (AngelList Talent)](https://angel.co/) - Startups.
-
-## Promising
-Websites where I found leads.
 - [Devsdata](https://devsdata.com/careers/)
 - [Dynamite Jobs](https://dynamitejobs.com/) - 100% remote from remote-first companies.
 - [Flexa](https://flexa.careers/) - Reviews of remote-friendly companies.
 - [Freelancing Females](https://jobs.freelancingfemales.com) - Focus on freelancing and women.
-- [Welcome To The Jungle](https://global.welcometothejungle.com) - Former [Otta](https://otta.com)
+- [LinkedIn](https://www.linkedin.com/jobs/)
+- [Powertofly](https://powertofly.com/jobs/) - Mostly US-based.
 - [Remote Ok](https://remoteok.com)
+- [Welcome To The Jungle](https://global.welcometothejungle.com) - Former [Otta](https://otta.com)
+- [Wellfound (AngelList Talent)](https://angel.co/) - Startups.
 
 ## Freelance Marketplaces
 Pure freelancing platforms.
@@ -182,6 +178,7 @@ Not the first choice to find remote jobs in software development, but still usef
 - [Uplers](https://www.uplers.com/) - Indians only?
 - [What Jobs](https://www.whatjobs.com/) - US and France.
 - [Woody](https://www.woodyjobs.com) - Creative, design, games, social, and more.
+- [XR Jobs Board](https://www.xrjobsboard.com/)
 
 ## APIs
 - [api jobs](https://www.apijobs.dev/) - API to build job boards.
