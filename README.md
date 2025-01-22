@@ -89,6 +89,7 @@ Other lists.
 - [Real Work From Anywhere](https://www.realworkfromanywhere.com) - 100% remote.
 - [Remote.co](https://remote.co)
 - [Remote Army](https://remotearmy.io/)
+- [Remote Front](https://www.remotefront.com) - Mostly US-based.
 - [Remote Leaf](https://remoteleaf.com/) - Newsletter, subscription-based.
 - [Remote Junkie](https://jobs.remoteworkjunkie.com) - Mostly US-based.
 - [Remote Tribe](https://www.remotetribe.life)
@@ -104,6 +105,7 @@ Other lists.
 - [Snaphunt](https://snaphunt.com)
 - [Space Crew](https://spacecrew.com) - Focus on the Space industry.
 - [Still Hiring Today](https://stillhiring.today/)
+- [Swiss Dev Jobs](https://swissdevjobs.ch/) - Focus on Switzerland.
 - [Talent.io](https://www.talent.io/p/en-fr/home) - France only.
 - [Threejs](https://www.threejs-job.com)
 - [Trueup](https://www.trueup.io/)
