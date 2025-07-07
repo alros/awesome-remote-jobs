@@ -120,6 +120,8 @@ Other lists.
 - [Workew](https://workew.com)
 - [Working Nomads](https://www.workingnomads.com/jobs)
 - [WP Hired](https://wphired.com) - Focus on Wordpress.
+- [Top Jobs Today](https://topjobstoday.com/remote-faang-jobs) - Focus on fresh FAANG and big tech jobs.
+
 
 ## More links
 I never found anything useful here, but maybe it was just bad luck.
