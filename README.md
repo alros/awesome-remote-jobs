@@ -117,6 +117,7 @@ Other lists.
 - [YCombinator](https://www.ycombinator.com/jobs/role/all/remote/)
 - [Yentalist](https://yentalist.com/)
 - [We Work Remotely](https://weworkremotely.com)
+- [Welyk](https://recruiting.welyk.tech/) - Focus on Italy.
 - [Work in Startups](https://workinstartups.com) - UK focused.
 - [Workew](https://workew.com)
 - [Working Nomads](https://www.workingnomads.com/jobs)
