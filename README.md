@@ -108,6 +108,7 @@ Other lists.
 - [Swiss Dev Jobs](https://swissdevjobs.ch/) - Focus on Switzerland.
 - [Talent.io](https://www.talent.io/p/en-fr/home) - France only.
 - [Threejs](https://www.threejs-job.com)
+- [Top Jobs Today](https://topjobstoday.com/remote-faang-jobs) - Focus on fresh FAANG and big tech jobs.
 - [Trueup](https://www.trueup.io/)
 - [Trust In Soda](https://www.trustinsoda.com/jobs)
 - [Underdog](https://underdog.io/) - Focus on startups in the US.
@@ -120,7 +121,6 @@ Other lists.
 - [Workew](https://workew.com)
 - [Working Nomads](https://www.workingnomads.com/jobs)
 - [WP Hired](https://wphired.com) - Focus on Wordpress.
-- [Top Jobs Today](https://topjobstoday.com/remote-faang-jobs) - Focus on fresh FAANG and big tech jobs.
 
 
 ## More links
