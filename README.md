@@ -147,7 +147,7 @@ I never found anything useful here, but maybe it was just bad luck.
 
 ## Misc
 Not the first choice to find remote jobs in software development, but still useful.
-- [80000 hours](https://jobs.80000hours.org) - high-impact careers.
+- [80000 hours](https://jobs.80000hours.org) - High-impact careers.
 - [99 Design](https://99designs.com) - For designers.
 - [Adzuna](https://www.adzuna.com/) - US.
 - [Animated Jobs](https://animatedjobs.com) - Jobs in animation.
