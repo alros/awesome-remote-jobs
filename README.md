@@ -24,6 +24,7 @@ Websites that helped me get interviews and jobs.
 - [Remote Ok](https://remoteok.com)
 - [Welcome To The Jungle](https://global.welcometothejungle.com) - Former [Otta](https://otta.com)
 - [Wellfound (AngelList Talent)](https://angel.co/) - Startups.
+- [Remotesome](https://www.remotesome.com)
 
 ## Freelance Marketplaces
 Pure freelancing platforms.
@@ -203,5 +204,4 @@ I keep these for future reference.
 - [Remote Leads](https://remoteleads.io/)
 - [Remote Work Hub](https://remoteworkhub.com/)
 - [Smooth Remote](https://smoothremote.com)
-- [Remotesome](https://www.remotesome.com) - I got a few interviews from this one.
 - [Techloop](https://jobs.techloop.io)
