@@ -2,7 +2,7 @@
 
 Opinionated list of job boards focused on software engineering and remote jobs.
 
-## Contents
+## Index
 - [Best](#best)
 - [Freelance Marketplaces](#freelance-marketplaces)
 - [Directory](#directory)
