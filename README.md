@@ -70,6 +70,7 @@ Other lists.
 - [Inclusively Remote](https://inclusivelyremote.com/)
 - [Infosec Jobs](https://infosec-jobs.com/) - Focus on cybersecurity.
 - [Italia Remote](https://italiaremote.com/companies) - List of remote-friendly italian companies.
+- [Job&Careers](https://job.careers) - free remote jobs from ATS like greenhouse, lever, workable etc
 - [Jobgether](https://en.jobgether.com)
 - [JSRemotely](https://jsremotely.com/) - Focus on JavaScript.
 - [Landing Jobs](https://landing.jobs)
@@ -123,7 +124,6 @@ Other lists.
 - [Workew](https://workew.com)
 - [Working Nomads](https://www.workingnomads.com/jobs)
 - [WP Hired](https://wphired.com) - Focus on Wordpress.
-- [Job&Careers](https://job.careers) - free remote jobs from ATS like greenhouse, lever, workable etc
 
 
 ## More links
