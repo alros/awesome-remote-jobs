@@ -118,14 +118,15 @@ Other lists.
 - [Underdog](https://underdog.io/) - Focus on startups in the US.
 - [Venture Loop](https://www.ventureloop.com)
 - [Virtual Vocation](https://www.virtualvocations.com/) - Subscription required, focus on USA.
-- [YCombinator](https://www.ycombinator.com/jobs/role/all/remote/)
-- [Yentalist](https://yentalist.com/)
 - [We Work Remotely](https://weworkremotely.com)
 - [Welyk](https://recruiting.welyk.tech/) - Focus on Italy.
 - [Work in Startups](https://workinstartups.com) - UK focused.
 - [Workew](https://workew.com)
 - [Working Nomads](https://www.workingnomads.com/jobs)
 - [WP Hired](https://wphired.com) - Focus on Wordpress.
+- [Xing](https://www.xing.com/) - Focus on Germany.
+- [YCombinator](https://www.ycombinator.com/jobs/role/all/remote/)
+- [Yentalist](https://yentalist.com/)
 
 
 ## More links
