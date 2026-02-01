@@ -3,6 +3,7 @@
 Opinionated list of job boards focused on software engineering and remote jobs.
 
 ## Index
+<!--lint disable awesome-list-item-->
 - [Best](#best)
 - [Freelance Marketplaces](#freelance-marketplaces)
 - [Directory](#directory)
@@ -11,6 +12,7 @@ Opinionated list of job boards focused on software engineering and remote jobs.
 - [Misc](#misc)
 - [APIs](#apis)
 - [Dead or inactive websites](#dead-or-inactive-websites)
+<!--lint enable awesome-list-item-->
 
 ## Best
 Websites that helped me get interviews and jobs.
@@ -40,8 +42,10 @@ Pure freelancing platforms.
 - [Guru](https://www.guru.com/)
 - [People Per Hour](https://www.peopleperhour.com/)
 - [TopCoder](https://www.topcoder.com)
+<!--lint disable awesome-list-item-->
 - [Toptal](https://www.toptal.com/) - Exclusive with a very strict selection process.
 - ~Upwork~ - [I don't recommend this website because they can ban you for no reason](https://medium.com/@albertorossotto/about-the-right-to-be-forgotten-1d50f1f66a45).
+<!--lint enable awesome-list-item-->
 - [Workana](https://www.workana.com/) - Only Latin America (?).
 
 ## Directory
@@ -70,7 +74,7 @@ Other lists.
 - [Inclusively Remote](https://inclusivelyremote.com/)
 - [Infosec Jobs](https://infosec-jobs.com/) - Focus on cybersecurity.
 - [Italia Remote](https://italiaremote.com/companies) - List of remote-friendly italian companies.
-- [Job&Careers](https://job.careers) - free remote jobs from ATS like greenhouse, lever, workable etc
+- [Job&Careers](https://job.careers) - Free remote jobs from ATS like greenhouse, lever, workable etc.
 - [Jobgether](https://en.jobgether.com)
 - [JSRemotely](https://jsremotely.com/) - Focus on JavaScript.
 - [Landing Jobs](https://landing.jobs)
