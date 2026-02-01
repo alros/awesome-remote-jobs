@@ -42,11 +42,12 @@ Pure freelancing platforms.
 - [Guru](https://www.guru.com/)
 - [People Per Hour](https://www.peopleperhour.com/)
 - [TopCoder](https://www.topcoder.com)
-<!--lint disable awesome-list-item-->
 - [Toptal](https://www.toptal.com/) - Exclusive with a very strict selection process.
+- [Workana](https://www.workana.com/) - Only Latin America (?).
+
+<!--lint disable awesome-list-item-->
 - ~Upwork~ - [I don't recommend this website because they can ban you for no reason](https://medium.com/@albertorossotto/about-the-right-to-be-forgotten-1d50f1f66a45).
 <!--lint enable awesome-list-item-->
-- [Workana](https://www.workana.com/) - Only Latin America (?).
 
 ## Directory
 Other lists.
