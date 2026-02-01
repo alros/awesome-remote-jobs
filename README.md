@@ -95,6 +95,7 @@ Other lists.
 - [Remote Front](https://www.remotefront.com) - Mostly US-based.
 - [Remote Leaf](https://remoteleaf.com/) - Newsletter, subscription-based.
 - [Remote Junkie](https://jobs.remoteworkjunkie.com) - Mostly US-based.
+- [Remote Rocketship](https://www.remoterocketship.com)
 - [Remote Tribe](https://www.remotetribe.life)
 - [Remote Rebellion](https://remoterebellion.com/)
 - [RemoteFetch](https://remotefetch.com/) - Mostly US-based.
