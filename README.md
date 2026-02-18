@@ -64,6 +64,7 @@ Other lists.
 - [Data Freelancer](https://thedatafreelancer.com/jobboard) - Focus on data science.
 - [Data Science Jobs](https://datasciencejobs.com) - Focus on data science.
 - [Dataaxy](https://dataaxy.com) - Focus on data science and AI, America.
+- [devtooljobs](https://devtooljobs.com/) - GTM jobs in developer tooling companies
 - [Echojobs](https://echojobs.io)
 - [Eures](https://eures.europa.eu/index_en) - By the EU Commission.
 - [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
