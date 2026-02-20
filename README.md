@@ -51,7 +51,7 @@ Pure freelancing platforms.
 
 ## Directory
 Other lists.
-- [awesome-job-boards](https://github.com/emredurukn/awesome-job-boards]
+- [awesome-job-boards](https://github.com/emredurukn/awesome-job-boards)
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 - [Job Board Search](https://jobboardsearch.com/) - Lists of job boards.
 
