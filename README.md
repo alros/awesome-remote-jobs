@@ -112,6 +112,7 @@ Other lists.
 - [Remote World Jobs](https://remoteworldjobs.com) - 100% truly remote.
 - [RemoteWX](https://remotewx.com)
 - [Remotive](https://remotive.com)
+- [Sailonchain](https://sailonchain.com) - Focus on cryptocurency.
 - [Salesfoce Marketing Cloud Jobs](https://www.sfmcjobs.com) - Focus on Salesforce.
 - [Skip The Drive](https://www.skipthedrive.com)
 - [Snaphunt](https://snaphunt.com)
