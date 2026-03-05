@@ -84,6 +84,7 @@ Other lists.
 - [Long Journey Ventures](https://www.longjourney.vc/) - US.
 - [Meet Frank](https://meetfrank.com)
 - [Montreal Developer Jobs](https://www.montrealdeveloperjobs.com) - For Montreal.
+- [Naukri](https://www.naukri.com) - India.
 - [NoCommute](https://www.nocommutejob.com/) - Newsletter, with subscription.
 - [NoDesk](https://nodesk.co)
 - [OfferZen](https://www.offerzen.com)
