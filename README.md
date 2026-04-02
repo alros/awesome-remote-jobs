@@ -137,6 +137,7 @@ Other lists.
 - [Xing](https://www.xing.com/) - Focus on Germany.
 - [YCombinator](https://www.ycombinator.com/jobs/role/all/remote/)
 - [Yentalist](https://yentalist.com/)
+- [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
 
 
 ## More links
