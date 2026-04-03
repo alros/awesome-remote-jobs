@@ -65,11 +65,12 @@ Other lists.
 - [Data Freelancer](https://thedatafreelancer.com/jobboard) - Focus on data science.
 - [Data Science Jobs](https://datasciencejobs.com) - Focus on data science.
 - [Dataaxy](https://dataaxy.com) - Focus on data science and AI, America.
-- [Devtooljobs](https://devtooljobs.com/) - GTM jobs in developer tooling companies
+- [Devtooljobs](https://devtooljobs.com/) - GTM jobs in developer tooling companies.
 - [Echojobs](https://echojobs.io)
 - [Eures](https://eures.europa.eu/index_en) - By the EU Commission.
 - [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
 - [Found.dev](https://found.dev/)
+- [FoundRole](https://foundrole.com/) - Focus on Texas.
 - [Frauvis](https://www.frauvis.com) - Focus on black women.
 - [Futureshaper](https://futureshaper.com) - Focus on innovative companies.
 - [Hubstaff Talent](https://hubstafftalent.net)
