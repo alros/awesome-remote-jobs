@@ -75,6 +75,7 @@ Other lists.
 - [Futureshaper](https://futureshaper.com) - Focus on innovative companies.
 - [Hubstaff Talent](https://hubstafftalent.net)
 - [Gamejob.works](https://gamejobs.work) - Focus on gaming.
+- [Hanzilla Jobs Remote Canada](https://jobs.hanzilla.co/locations/remote/) - Daily-updated Canadian student and recent-grad remote jobs across internships, co-ops, new grad, junior, and entry-level roles.
 - [Inclusively Remote](https://inclusivelyremote.com/)
 - [Infosec Jobs](https://infosec-jobs.com/) - Focus on cybersecurity.
 - [Italia Remote](https://italiaremote.com/companies) - List of remote-friendly italian companies.
