@@ -24,11 +24,11 @@ Pure freelancing platforms.
 - [FreelancerMap](https://www.freelancermap.com)
 - [Gigged.AI](https://app.gigged.ai/find-a-gig)
 - [Gigster](https://gigster.com/)
-- [Gun.io](https://gun.io/) - It doesn't accept new members.
+- [Gun.io](https://gun.io/)
 - [Guru](https://www.guru.com/)
 - [People Per Hour](https://www.peopleperhour.com/)
 - [TopCoder](https://www.topcoder.com)
-- [Toptal](https://www.toptal.com/) - Exclusive with a very strict selection process.
+- [Toptal](https://www.toptal.com/)
 - [Workana](https://www.workana.com/) - Only Latin America (?).
 
 <!--lint disable awesome-list-item-->
