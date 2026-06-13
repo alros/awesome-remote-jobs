@@ -75,7 +75,6 @@ Other lists.
 - [Futureshaper](https://futureshaper.com) - Focus on innovative companies.
 - [Hubstaff Talent](https://hubstafftalent.net)
 - [Gamejob.works](https://gamejobs.work) - Focus on gaming.
-- [Hanzilla Jobs Remote Canada](https://jobs.hanzilla.co/locations/remote/) - Daily-updated Canadian student and recent-grad remote jobs across internships, co-ops, new grad, junior, and entry-level roles.
 - [Inclusively Remote](https://inclusivelyremote.com/)
 - [Infosec Jobs](https://infosec-jobs.com/) - Focus on cybersecurity.
 - [Italia Remote](https://italiaremote.com/companies) - List of remote-friendly italian companies.
@@ -178,6 +177,7 @@ Not the first choice to find remote jobs in software development, but still usef
 - [Froog](https://froog.co) - Blockchain & Web3 industry.
 - [Get Outdoor Jobs](https://getoutdoorjobs.com) - Mostly America, focus on the outdoor industry.
 - [Global Talent Space](https://www.globaltalentspace.com)
+- [Hanzilla Jobs Remote Canada](https://jobs.hanzilla.co/locations/remote/) - Canadian student and recent-grad remote jobs.
 - [Jobs In Health Tech](https://jobsinhealthtech.com) - Focus on health companies.
 - [Jooble](https://jooble.org)
 - [Ladders](https://www.theladders.com) - To find 100k+ jobs.
