@@ -9,8 +9,6 @@ List of job boards focused on software engineering and remote jobs.
 - [Directory](#directory)
 - [Other websites](#other-websites)
 - [Misc](#misc)
-- [APIs](#apis)
-- [Dead or inactive websites](#dead-or-inactive-websites)
 <!--lint enable awesome-list-item-->
 
 ## Freelance Marketplaces
@@ -47,42 +45,31 @@ Other lists.
 - [YCombinator Co‑Founder Matching](https://www.ycombinator.com/cofounder-matching)
 
 ## Other websites
-- [.NET Remotely](https://dotnetremotely.com) - Focus on .NET.
 - [4 day week](https://4dayweek.io/)
 - [ArbeitNow](https://www.arbeitnow.com) - Focus on Germany.
 - [Authentic Jobs](https://authenticjobs.com)
 - [BuiltIn](https://builtin.com/)
 - [Career Vault](https://www.careervault.io) - Companies that prioritize employee well-being.
-- [Cleverjobs](https://cleverjobs.net)
 - [Climatebase](https://climatebase.org/)
 - [Cord](https://cord.co/) - Mostly UK-based.
 - [Crossover](https://www.crossover.com/)
 - [Crunchboard](https://www.crunchboard.com/) - US.
 - [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/) - Focus on crypto.
 - [Daily Remote](https://dailyremote.com)
-- [Data Freelancer](https://thedatafreelancer.com/jobboard) - Focus on data science.
 - [Dice](https://www.dice.com)
 - [Data Science Jobs](https://datasciencejobs.com) - Focus on data science.
-- [Dataaxy](https://dataaxy.com) - Focus on data science and AI, America.
 - [Devsdata](https://devsdata.com/careers/)
-- [Devtooljobs](https://devtooljobs.com/) - GTM jobs in developer tooling companies.
 - [Dynamite Jobs](https://dynamitejobs.com/) - 100% remote from remote-first companies.
 - [Echojobs](https://echojobs.io)
 - [EU Remote Jobs](https://euremotejobs.com)
 - [Eures](https://eures.europa.eu/index_en) - By the EU Commission.
-- [FindAsync](https://www.findasync.com/?job-categories=back-end-programming)
 - [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
 - [Flexa](https://flexa.careers/) - Reviews of remote-friendly companies.
 - [Found.dev](https://found.dev/)
 - [FoundRole](https://foundrole.com/) - Focus on Texas.
-- [Frauvis](https://www.frauvis.com) - Focus on black women.
-- [Freelancing Females](https://jobs.freelancingfemales.com) - Focus on freelancing and women.
-- [Futureshaper](https://futureshaper.com) - Focus on innovative companies.
 - [Hubstaff Talent](https://hubstafftalent.net)
 - [Gamejob.works](https://gamejobs.work) - Focus on gaming.
-- [Growmotely](https://www.growmotely.com/job-board/)
 - [Hack A Job](https://hackajob.co/)
-- [Hired](https://hired.com/)
 - [Inclusively Remote](https://inclusivelyremote.com/)
 - [Infosec Jobs](https://infosec-jobs.com/) - Focus on cybersecurity.
 - [Italia Remote](https://italiaremote.com/companies) - List of remote-friendly italian companies.
@@ -93,25 +80,17 @@ Other lists.
 - [JSRemotely](https://jsremotely.com/) - Focus on JavaScript.
 - [JustRemote](https://justremote.co)
 - [Landing Jobs](https://landing.jobs)
-- [Lets Work Remotely](https://www.letsworkremotely.com)
 - [LinkedIn](https://www.linkedin.com/jobs/)
 - [Long Journey Ventures](https://www.longjourney.vc/) - US.
 - [Meet Frank](https://meetfrank.com)
-- [Montreal Developer Jobs](https://www.montrealdeveloperjobs.com) - For Montreal.
 - [Naukri](https://www.naukri.com) - India.
 - [NoCommute](https://www.nocommutejob.com/) - Newsletter, with subscription.
 - [NoDesk](https://nodesk.co)
 - [OfferZen](https://www.offerzen.com)
 - [OmniJobs](https://omnijobs.io)
 - [Open To Work Remotely](https://www.opentoworkremote.com/)
-- [OpenTalent](https://opentalent.co)
-- [Outsourcely](https://www.outsourcely.com/)
-- [Pangian](https://pangian.com)
-- [People-First Jobs](https://peoplefirstjobs.com)
 - [Powertofly](https://powertofly.com/jobs/) - Mostly US-based.
-- [Privacy-First Jobs](https://privacyfirstjobs.com) - Focus on the privacy industry.
 - [PyCoder's Jobs](https://www.pythonjobshq.com) - Focus on Python.
-- [Real Jobs From Anywhere](https://realjobsfromanywhere.com/) - Curated remote job board with verified remote-first positions.
 - [Real Work From Anywhere](https://www.realworkfromanywhere.com) - 100% remote.
 - [Remote.co](https://remote.co)
 - [Remote Army](https://remotearmy.io/)
@@ -120,26 +99,20 @@ Other lists.
 - [Remote Junkie](https://jobs.remoteworkjunkie.com) - Mostly US-based.
 - [Remote Ok](https://remoteok.com)
 - [Remote Rocketship](https://www.remoterocketship.com)
-- [Remote Tribe](https://www.remotetribe.life)
-- [Remote Rebellion](https://remoterebellion.com/)
 - [RemoteFetch](https://remotefetch.com/) - Mostly US-based.
-- [RemoteHub](https://www.remotehub.com)
-- [Remoters](https://remoters.net)
-- [Remoters](https://www.remoters.me)
+- [Remoters me](https://www.remoters.me)
 - [Remotesome](https://www.remotesome.com)
 - [Remote Tech Jobs](https://www.remotetechjobs.io/)
-- [RemoteWoman](https://remotewoman.com) - Female-friendly, US-based.
 - [Remote World Jobs](https://remoteworldjobs.com) - 100% truly remote.
 - [RemoteWX](https://remotewx.com)
 - [Remotive](https://remotive.com)
 - [Sailonchain](https://sailonchain.com) - Focus on cryptocurency.
-- [Salesfoce Marketing Cloud Jobs](https://www.sfmcjobs.com) - Focus on Salesforce.
 - [Skip The Drive](https://www.skipthedrive.com)
 - [Snaphunt](https://snaphunt.com)
 - [Space Crew](https://spacecrew.com) - Focus on the Space industry.
 - [Still Hiring Today](https://stillhiring.today/)
 - [Swiss Dev Jobs](https://swissdevjobs.ch/) - Focus on Switzerland.
-- [Talent.io](https://www.talent.io/p/en-fr/home) - France only.
+- [Tech Fetch](https://www.techfetch.com) - US.
 - [Threejs](https://www.threejs-job.com)
 - [Top Jobs Today](https://topjobstoday.com/remote-faang-jobs) - Focus on fresh FAANG and big tech jobs.
 - [Trueup](https://www.trueup.io/)
@@ -151,70 +124,23 @@ Other lists.
 - [We Work Remotely](https://weworkremotely.com)
 - [Welcome To The Jungle](https://global.welcometothejungle.com) - Former [Otta](https://otta.com)
 - [Welyk](https://recruiting.welyk.tech/) - Focus on Italy.
-- [Work in Startups](https://workinstartups.com) - UK focused.
-- [Workew](https://workew.com)
 - [Working Nomads](https://www.workingnomads.com/jobs)
-- [WP Hired](https://wphired.com) - Focus on Wordpress.
 - [Xing](https://www.xing.com/) - Focus on Germany.
-- [Yentalist](https://yentalist.com/)
 
 ## Misc
 Not the first choice to find remote jobs in software development, but still useful.
 - [80000 hours](https://jobs.80000hours.org) - High-impact careers.
-- [99 Design](https://99designs.com) - For designers.
-- [Adzuna](https://www.adzuna.com/) - US.
 - [Animated Jobs](https://animatedjobs.com) - Jobs in animation.
 - [Bolt Jobs](https://www.boltjobs.com)
 - [Company Brew](https://companybrew.com) - For New Zeland.
-- [DAO Match](https://daomatch.xyz)
-- [Design Hill](https://www.designhill.com) - Creative jobs.
 - [Digital Marketing Jobs](https://www.digitalmarketingjobs.com) - Digital Marketing, SEO, social media, and more.
 - [Dribble](https://dribbble.com) - Creative jobs.
-- [Fintech Marketers](https://fintechmarketers.com/) - Fintech.
-- [Froog](https://froog.co) - Blockchain & Web3 industry.
-- [Get Outdoor Jobs](https://getoutdoorjobs.com) - Mostly America, focus on the outdoor industry.
-- [Global Talent Space](https://www.globaltalentspace.com)
 - [Hanzilla Jobs Remote Canada](https://jobs.hanzilla.co/locations/remote/) - Canadian student and recent-grad remote jobs.
-- [Jobs In Health Tech](https://jobsinhealthtech.com) - Focus on health companies.
-- [Jooble](https://jooble.org)
-- [Ladders](https://www.theladders.com) - To find 100k+ jobs.
-- [Lore](https://lorewritingschool.com/job-boards/) - For writers.
-- [Mayple](https://mayple.webflow.io/) - For marketing.
 - [Monster](https://www.monster.com)
-- [Paid Media Jobs](https://paidmediajobs.com) - Marketing.
-- [Pangea](https://pangea.ai) - For agencies.
-- [Product Hunt](https://www.producthunt.com) - Ideas and products (no more job section?).
-- [Remote First Institute](https://remote-first.institute) - A community.
-- [Remote Workmate](https://www.linkedin.com/company/remote-workmate/) - Filipinos only.
-- [Remote Year](https://linktr.ee/remoteyear)
-- [RemoteesTech](https://www.remoteestech.com/) - Spanish only?
-- [Simply Hired](http://www.simplyhired.com/)
+- [People-First Jobs](https://peoplefirstjobs.com)
+- [RemoteHub](https://www.remotehub.com)
 - [Smart Remote Jobs](https://www.smartremotejobs.com)
 - [Teachaway](https://www.teachaway.com/) - For teachers.
-- [Tech Fetch](https://www.techfetch.com) - US.
-- [Teletravail](https://teletravail.guru) - In french.
-- [Travel Massive](https://www.travelmassive.com) - For digital nomads and creators.
-- [Uplers](https://www.uplers.com/) - Indians only?
 - [What Jobs](https://www.whatjobs.com/) - US and France.
 - [Woody](https://www.woodyjobs.com) - Creative, design, games, social, and more.
-- [XR Jobs Board](https://www.xrjobsboard.com/)
 
-## APIs
-- [api jobs](https://www.apijobs.dev/) - API to build job boards.
-
-## Dead or inactive websites
-I keep these for future reference.
-- [Anywhere100](https://anywhere100.com/)
-- [Europe Remotely](http://europeremotely.com/)
-- [Flockingbird](https://search.flockingbird.social/)
-- [FreshRemote.Work](https://freshremote.work)
-- [Go Remotely](https://goremotely.net)
-- [Grow Remote](https://jobs.growremote.ie/home/)
-- [Remote By Default](https://remotebydefault.org/)
-- [Remote Europe](https://remote-europe.com)
-- [Remote Tech Jobs](https://www.remotetechjobs.com)
-- [Remoteng](https://remoteng.com)
-- [Remote Leads](https://remoteleads.io/)
-- [Remote Work Hub](https://remoteworkhub.com/)
-- [Smooth Remote](https://smoothremote.com)
-- [Techloop](https://jobs.techloop.io)
