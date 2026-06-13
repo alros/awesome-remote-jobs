@@ -1,6 +1,6 @@
 # Remote-Jobs List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Opinionated list of job boards focused on software engineering and remote jobs.
+List of job boards focused on software engineering and remote jobs.
 
 ## Index
 <!--lint disable awesome-list-item-->
@@ -8,7 +8,6 @@ Opinionated list of job boards focused on software engineering and remote jobs.
 - [Startups](#Startups)
 - [Directory](#directory)
 - [Other websites](#other-websites)
-- [More links](#more-links)
 - [Misc](#misc)
 - [APIs](#apis)
 - [Dead or inactive websites](#dead-or-inactive-websites)
@@ -49,20 +48,29 @@ Other lists.
 
 ## Other websites
 - [.NET Remotely](https://dotnetremotely.com) - Focus on .NET.
+- [4 day week](https://4dayweek.io/)
 - [ArbeitNow](https://www.arbeitnow.com) - Focus on Germany.
+- [Authentic Jobs](https://authenticjobs.com)
+- [BuiltIn](https://builtin.com/)
 - [Career Vault](https://www.careervault.io) - Companies that prioritize employee well-being.
+- [Cleverjobs](https://cleverjobs.net)
+- [Climatebase](https://climatebase.org/)
 - [Cord](https://cord.co/) - Mostly UK-based.
 - [Crossover](https://www.crossover.com/)
 - [Crunchboard](https://www.crunchboard.com/) - US.
 - [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/) - Focus on crypto.
+- [Daily Remote](https://dailyremote.com)
 - [Data Freelancer](https://thedatafreelancer.com/jobboard) - Focus on data science.
+- [Dice](https://www.dice.com)
 - [Data Science Jobs](https://datasciencejobs.com) - Focus on data science.
 - [Dataaxy](https://dataaxy.com) - Focus on data science and AI, America.
 - [Devsdata](https://devsdata.com/careers/)
 - [Devtooljobs](https://devtooljobs.com/) - GTM jobs in developer tooling companies.
 - [Dynamite Jobs](https://dynamitejobs.com/) - 100% remote from remote-first companies.
 - [Echojobs](https://echojobs.io)
+- [EU Remote Jobs](https://euremotejobs.com)
 - [Eures](https://eures.europa.eu/index_en) - By the EU Commission.
+- [FindAsync](https://www.findasync.com/?job-categories=back-end-programming)
 - [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
 - [Flexa](https://flexa.careers/) - Reviews of remote-friendly companies.
 - [Found.dev](https://found.dev/)
@@ -72,13 +80,20 @@ Other lists.
 - [Futureshaper](https://futureshaper.com) - Focus on innovative companies.
 - [Hubstaff Talent](https://hubstafftalent.net)
 - [Gamejob.works](https://gamejobs.work) - Focus on gaming.
+- [Growmotely](https://www.growmotely.com/job-board/)
+- [Hack A Job](https://hackajob.co/)
+- [Hired](https://hired.com/)
 - [Inclusively Remote](https://inclusivelyremote.com/)
 - [Infosec Jobs](https://infosec-jobs.com/) - Focus on cybersecurity.
 - [Italia Remote](https://italiaremote.com/companies) - List of remote-friendly italian companies.
 - [Job&Careers](https://job.careers) - Free remote jobs from ATS like greenhouse, lever, workable etc.
 - [Jobgether](https://en.jobgether.com)
+- [Jobs Factor](https://jobsfactor.eu)
+- [Jobspresso](https://jobspresso.co/)
 - [JSRemotely](https://jsremotely.com/) - Focus on JavaScript.
+- [JustRemote](https://justremote.co)
 - [Landing Jobs](https://landing.jobs)
+- [Lets Work Remotely](https://www.letsworkremotely.com)
 - [LinkedIn](https://www.linkedin.com/jobs/)
 - [Long Journey Ventures](https://www.longjourney.vc/) - US.
 - [Meet Frank](https://meetfrank.com)
@@ -110,6 +125,7 @@ Other lists.
 - [RemoteFetch](https://remotefetch.com/) - Mostly US-based.
 - [RemoteHub](https://www.remotehub.com)
 - [Remoters](https://remoters.net)
+- [Remoters](https://www.remoters.me)
 - [Remotesome](https://www.remotesome.com)
 - [Remote Tech Jobs](https://www.remotetechjobs.io/)
 - [RemoteWoman](https://remotewoman.com) - Female-friendly, US-based.
@@ -127,6 +143,7 @@ Other lists.
 - [Threejs](https://www.threejs-job.com)
 - [Top Jobs Today](https://topjobstoday.com/remote-faang-jobs) - Focus on fresh FAANG and big tech jobs.
 - [Trueup](https://www.trueup.io/)
+- [Truly Remote](https://trulyremote.co)
 - [Trust In Soda](https://www.trustinsoda.com/jobs)
 - [Underdog](https://underdog.io/) - Focus on startups in the US.
 - [Venture Loop](https://www.ventureloop.com)
@@ -140,28 +157,6 @@ Other lists.
 - [WP Hired](https://wphired.com) - Focus on Wordpress.
 - [Xing](https://www.xing.com/) - Focus on Germany.
 - [Yentalist](https://yentalist.com/)
-
-
-## More links
-I never found anything useful here, but maybe it was just bad luck.
-- [4 day week](https://4dayweek.io/)
-- [Authentic Jobs](https://authenticjobs.com)
-- [BuiltIn](https://builtin.com/)
-- [Cleverjobs](https://cleverjobs.net)
-- [Climatebase](https://climatebase.org/)
-- [Daily Remote](https://dailyremote.com)
-- [Dice](https://www.dice.com)
-- [EU Remote Jobs](https://euremotejobs.com)
-- [FindAsync](https://www.findasync.com/?job-categories=back-end-programming)
-- [Growmotely](https://www.growmotely.com/job-board/)
-- [Hack A Job](https://hackajob.co/)
-- [Hired](https://hired.com/)
-- [Jobs Factor](https://jobsfactor.eu)
-- [Jobspresso](https://jobspresso.co/)
-- [JustRemote](https://justremote.co)
-- [Lets Work Remotely](https://www.letsworkremotely.com)
-- [Remoters](https://www.remoters.me)
-- [Truly Remote](https://trulyremote.co)
 
 ## Misc
 Not the first choice to find remote jobs in software development, but still useful.
