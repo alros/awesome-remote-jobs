@@ -4,8 +4,8 @@ Opinionated list of job boards focused on software engineering and remote jobs.
 
 ## Index
 <!--lint disable awesome-list-item-->
-- [Best](#best)
 - [Freelance Marketplaces](#freelance-marketplaces)
+- [Startups](#Startups)
 - [Directory](#directory)
 - [Other websites](#other-websites)
 - [More links](#more-links)
@@ -13,20 +13,6 @@ Opinionated list of job boards focused on software engineering and remote jobs.
 - [APIs](#apis)
 - [Dead or inactive websites](#dead-or-inactive-websites)
 <!--lint enable awesome-list-item-->
-
-## Best
-Websites that helped me get interviews and jobs.
-- [Cord](https://cord.co/) - Mostly UK-based.
-- [Devsdata](https://devsdata.com/careers/)
-- [Dynamite Jobs](https://dynamitejobs.com/) - 100% remote from remote-first companies.
-- [Flexa](https://flexa.careers/) - Reviews of remote-friendly companies.
-- [Freelancing Females](https://jobs.freelancingfemales.com) - Focus on freelancing and women.
-- [LinkedIn](https://www.linkedin.com/jobs/)
-- [Powertofly](https://powertofly.com/jobs/) - Mostly US-based.
-- [Remote Ok](https://remoteok.com)
-- [Welcome To The Jungle](https://global.welcometothejungle.com) - Former [Otta](https://otta.com)
-- [Wellfound (AngelList Talent)](https://angel.co/) - Startups.
-- [Remotesome](https://www.remotesome.com)
 
 ## Freelance Marketplaces
 Pure freelancing platforms.
@@ -55,23 +41,34 @@ Other lists.
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 - [Job Board Search](https://jobboardsearch.com/) - Lists of job boards.
 
+## Startups
+- [Fucking Startup Jobs](https://www.fuckingstartupjobs.com)
+- [Wellfound (AngelList Talent)](https://angel.co/) - Startups.
+- [YCombinator](https://www.ycombinator.com/jobs/role/all/remote/)
+- [YCombinator Co‑Founder Matching](https://www.ycombinator.com/cofounder-matching)
+
 ## Other websites
 - [.NET Remotely](https://dotnetremotely.com) - Focus on .NET.
 - [ArbeitNow](https://www.arbeitnow.com) - Focus on Germany.
 - [Career Vault](https://www.careervault.io) - Companies that prioritize employee well-being.
+- [Cord](https://cord.co/) - Mostly UK-based.
 - [Crossover](https://www.crossover.com/)
 - [Crunchboard](https://www.crunchboard.com/) - US.
 - [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/) - Focus on crypto.
 - [Data Freelancer](https://thedatafreelancer.com/jobboard) - Focus on data science.
 - [Data Science Jobs](https://datasciencejobs.com) - Focus on data science.
 - [Dataaxy](https://dataaxy.com) - Focus on data science and AI, America.
+- [Devsdata](https://devsdata.com/careers/)
 - [Devtooljobs](https://devtooljobs.com/) - GTM jobs in developer tooling companies.
+- [Dynamite Jobs](https://dynamitejobs.com/) - 100% remote from remote-first companies.
 - [Echojobs](https://echojobs.io)
 - [Eures](https://eures.europa.eu/index_en) - By the EU Commission.
 - [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
+- [Flexa](https://flexa.careers/) - Reviews of remote-friendly companies.
 - [Found.dev](https://found.dev/)
 - [FoundRole](https://foundrole.com/) - Focus on Texas.
 - [Frauvis](https://www.frauvis.com) - Focus on black women.
+- [Freelancing Females](https://jobs.freelancingfemales.com) - Focus on freelancing and women.
 - [Futureshaper](https://futureshaper.com) - Focus on innovative companies.
 - [Hubstaff Talent](https://hubstafftalent.net)
 - [Gamejob.works](https://gamejobs.work) - Focus on gaming.
@@ -82,6 +79,7 @@ Other lists.
 - [Jobgether](https://en.jobgether.com)
 - [JSRemotely](https://jsremotely.com/) - Focus on JavaScript.
 - [Landing Jobs](https://landing.jobs)
+- [LinkedIn](https://www.linkedin.com/jobs/)
 - [Long Journey Ventures](https://www.longjourney.vc/) - US.
 - [Meet Frank](https://meetfrank.com)
 - [Montreal Developer Jobs](https://www.montrealdeveloperjobs.com) - For Montreal.
@@ -95,6 +93,7 @@ Other lists.
 - [Outsourcely](https://www.outsourcely.com/)
 - [Pangian](https://pangian.com)
 - [People-First Jobs](https://peoplefirstjobs.com)
+- [Powertofly](https://powertofly.com/jobs/) - Mostly US-based.
 - [Privacy-First Jobs](https://privacyfirstjobs.com) - Focus on the privacy industry.
 - [PyCoder's Jobs](https://www.pythonjobshq.com) - Focus on Python.
 - [Real Jobs From Anywhere](https://realjobsfromanywhere.com/) - Curated remote job board with verified remote-first positions.
@@ -104,12 +103,15 @@ Other lists.
 - [Remote Front](https://www.remotefront.com) - Mostly US-based.
 - [Remote Leaf](https://remoteleaf.com/) - Newsletter, subscription-based.
 - [Remote Junkie](https://jobs.remoteworkjunkie.com) - Mostly US-based.
+- [Remote Ok](https://remoteok.com)
 - [Remote Rocketship](https://www.remoterocketship.com)
 - [Remote Tribe](https://www.remotetribe.life)
 - [Remote Rebellion](https://remoterebellion.com/)
 - [RemoteFetch](https://remotefetch.com/) - Mostly US-based.
 - [RemoteHub](https://www.remotehub.com)
 - [Remoters](https://remoters.net)
+- [Remotesome](https://www.remotesome.com)
+- [Remote Tech Jobs](https://www.remotetechjobs.io/)
 - [RemoteWoman](https://remotewoman.com) - Female-friendly, US-based.
 - [Remote World Jobs](https://remoteworldjobs.com) - 100% truly remote.
 - [RemoteWX](https://remotewx.com)
@@ -130,13 +132,13 @@ Other lists.
 - [Venture Loop](https://www.ventureloop.com)
 - [Virtual Vocation](https://www.virtualvocations.com/) - Subscription required, focus on USA.
 - [We Work Remotely](https://weworkremotely.com)
+- [Welcome To The Jungle](https://global.welcometothejungle.com) - Former [Otta](https://otta.com)
 - [Welyk](https://recruiting.welyk.tech/) - Focus on Italy.
 - [Work in Startups](https://workinstartups.com) - UK focused.
 - [Workew](https://workew.com)
 - [Working Nomads](https://www.workingnomads.com/jobs)
 - [WP Hired](https://wphired.com) - Focus on Wordpress.
 - [Xing](https://www.xing.com/) - Focus on Germany.
-- [YCombinator](https://www.ycombinator.com/jobs/role/all/remote/)
 - [Yentalist](https://yentalist.com/)
 
 
