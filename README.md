@@ -92,7 +92,7 @@ Other lists.
 - [Open To Work Remotely](https://www.opentoworkremote.com/)
 - [Powertofly](https://powertofly.com/jobs/) - Mostly US-based.
 - [PyCoder's Jobs](https://www.pythonjobshq.com) - Focus on Python.
-- [Real Job Work From Home](https://realjobworkfromhome.com/) - Curated worldwide remote jobs.
+- [Real Job Work From Home](https://realjobworkfromhome.com/)
 - [Real Work From Anywhere](https://www.realworkfromanywhere.com) - 100% remote.
 - [Remote.co](https://remote.co)
 - [Remote Army](https://remotearmy.io/)
