@@ -99,6 +99,7 @@ Other lists.
 - [Remote Front](https://www.remotefront.com) - Mostly US-based.
 - [Remote Leaf](https://remoteleaf.com/) - Newsletter, subscription-based.
 - [Remote Junkie](https://jobs.remoteworkjunkie.com) - Mostly US-based.
+- [Remote1stJobs](https://www.remote1stjobs.com/) - UK/Europe/EMEA remote jobs board that filters out US-only and fake-remote roles; direct employer links and salary-visible listings.
 - [Remote Ok](https://remoteok.com)
 - [Remote Rocketship](https://www.remoterocketship.com)
 - [RemoteFetch](https://remotefetch.com/) - Mostly US-based.
