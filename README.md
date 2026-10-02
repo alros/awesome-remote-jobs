@@ -81,6 +81,7 @@ Other lists.
 - [JSRemotely](https://jsremotely.com/) - Focus on JavaScript.
 - [JustRemote](https://justremote.co)
 - [Landing Jobs](https://landing.jobs)
+- [Lenny's Jobs](https://www.lennysjobs.com/)
 - [LinkedIn](https://www.linkedin.com/jobs/)
 - [Long Journey Ventures](https://www.longjourney.vc/) - US.
 - [Meet Frank](https://meetfrank.com)
@@ -94,6 +95,7 @@ Other lists.
 - [PyCoder's Jobs](https://www.pythonjobshq.com) - Focus on Python.
 - [Real Job Work From Home](https://realjobworkfromhome.com/)
 - [Real Work From Anywhere](https://www.realworkfromanywhere.com) - 100% remote.
+- [Remote 100](https://remote100k.com/) - High paying remote jobs.
 - [Remote.co](https://remote.co)
 - [Remote Army](https://remotearmy.io/)
 - [Remote Front](https://www.remotefront.com) - Mostly US-based.
