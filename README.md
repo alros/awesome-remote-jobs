@@ -115,6 +115,7 @@ Other lists.
 - [Snaphunt](https://snaphunt.com)
 - [Space Crew](https://spacecrew.com) - Focus on the Space industry.
 - [Still Hiring Today](https://stillhiring.today/)
+- [Still Open](https://stillopen.work/)
 - [Swiss Dev Jobs](https://swissdevjobs.ch/) - Focus on Switzerland.
 - [Tech Fetch](https://www.techfetch.com) - US.
 - [Threejs](https://www.threejs-job.com)
