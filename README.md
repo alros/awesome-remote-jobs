@@ -74,6 +74,7 @@ Other lists.
 - [Inclusively Remote](https://inclusivelyremote.com/)
 - [Infosec Jobs](https://infosec-jobs.com/) - Focus on cybersecurity.
 - [Italia Remote](https://italiaremote.com/companies) - List of remote-friendly italian companies.
+- [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
 - [Job&Careers](https://job.careers) - Free remote jobs from ATS like greenhouse, lever, workable etc.
 - [Jobgether](https://en.jobgether.com)
 - [Jobs Factor](https://jobsfactor.eu)
