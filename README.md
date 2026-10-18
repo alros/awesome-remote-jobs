@@ -40,6 +40,7 @@ Other lists.
 - [Job Board Search](https://jobboardsearch.com/) - Lists of job boards.
 
 ## Startups
+- [DMtheFounder](https://dmthefounder.com/) - Early engineering roles posted by startup founders on X and Hacker News.
 - [Fucking Startup Jobs](https://www.fuckingstartupjobs.com)
 - [Wellfound (AngelList Talent)](https://angel.co/) - Startups.
 - [YCombinator](https://www.ycombinator.com/jobs/role/all/remote/)
