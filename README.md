@@ -19,6 +19,7 @@ Pure freelancing platforms.
 - [Fiverr](https://www.fiverr.com/)
 - [Freelancer.com](https://www.freelancer.com/)
 - [FreelancerMap](https://www.freelancermap.com)
+- [fwork.club](https://fwork.club?utm_source=github_awesome&utm_campaign=launch1) - New freelance marketplace (web, design, writing, video, marketing) with payments held in escrow until the client approves the work.
 - [Gigged.AI](https://app.gigged.ai/find-a-gig)
 - [Gigster](https://gigster.com/)
 - [Gun.io](https://gun.io/)
