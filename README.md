@@ -71,7 +71,7 @@ Other lists.
 - [Data Science Jobs](https://datasciencejobs.com) - Focus on data science.
 - [Devsdata](https://devsdata.com/careers/)
 - [Echojobs](https://echojobs.io)
-- [EU Remote Jobs](https://euremotejobs.com)
+- [EU Remote Jobs](https://euremotejobs.com) - Focus on Europe.
 - [Eures](https://eures.europa.eu/index_en) - By the EU Commission.
 - [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
 - [Found.dev](https://found.dev/)
@@ -87,6 +87,7 @@ Other lists.
 - [Jobs Factor](https://jobsfactor.eu)
 - [Jobspresso](https://jobspresso.co/)
 - [JSRemotely](https://jsremotely.com/) - Focus on JavaScript.
+- [Justjoin.it](https://justjoin.it/) - Focus on tech in Europe.
 - [JustRemote](https://justremote.co)
 - [Landing Jobs](https://landing.jobs)
 - [Lenny's Jobs](https://www.lennysjobs.com/)
