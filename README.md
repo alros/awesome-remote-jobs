@@ -60,6 +60,7 @@ Other lists.
 
 ## Other websites
 - [4 day week](https://4dayweek.io/)
+- [AI Gig Scout](https://aigigscout.com/) - Remote AI training, evaluation and coding gigs from Micro1, Mercor, SME Careers and more.
 - [ArbeitNow](https://www.arbeitnow.com) - Focus on Germany.
 - [Authentic Jobs](https://authenticjobs.com)
 - [Career Vault](https://www.careervault.io) - Companies that prioritize employee well-being.
