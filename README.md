@@ -14,6 +14,7 @@ List of job boards focused on software engineering and remote jobs.
 ## Freelance Marketplaces
 Pure freelancing platforms.
 - [Arc()](https://arc.dev)
+- [chainjobs](https://chainjobs.app/) - Web3 and freelance work, 0% platform commission.
 - [Contra](https://contra.com)
 - [Distributed](https://www.distributed.com/)
 - [Fiverr](https://www.fiverr.com/)
