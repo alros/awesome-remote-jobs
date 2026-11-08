@@ -64,6 +64,7 @@ Other lists.
 - [Authentic Jobs](https://authenticjobs.com)
 - [Career Vault](https://www.careervault.io) - Companies that prioritize employee well-being.
 - [Climatebase](https://climatebase.org/)
+- [CookLLM](https://cookllm.com/en/jobs/board) - AI jobs from 1,300+ AI companies' career pages, with a remote filter.
 - [Crossover](https://www.crossover.com/)
 - [Crunchboard](https://www.crunchboard.com/) - US.
 - [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/) - Focus on crypto.
