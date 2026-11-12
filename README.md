@@ -79,6 +79,7 @@ Other lists.
 - [Hubstaff Talent](https://hubstafftalent.net)
 - [Gamejob.works](https://gamejobs.work) - Focus on gaming.
 - [Hack A Job](https://hackajob.co/)
+- [HeyRole](https://heyrole.ai/) - Remote jobs with location filters, an AI job-search assistant, and original posting links.
 - [Inclusively Remote](https://inclusivelyremote.com/)
 - [Infosec Jobs](https://infosec-jobs.com/) - Focus on cybersecurity.
 - [Italia Remote](https://italiaremote.com/companies) - List of remote-friendly italian companies.
