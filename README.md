@@ -62,6 +62,7 @@ Other lists.
 - [4 day week](https://4dayweek.io/)
 - [ArbeitNow](https://www.arbeitnow.com) - Focus on Germany.
 - [Authentic Jobs](https://authenticjobs.com)
+- [Aworkado](https://aworkado.co) - Remote-only jobs aggregated from company ATS boards.
 - [Career Vault](https://www.careervault.io) - Companies that prioritize employee well-being.
 - [Climatebase](https://climatebase.org/)
 - [Crossover](https://www.crossover.com/)
