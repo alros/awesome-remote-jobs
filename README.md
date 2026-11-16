@@ -34,6 +34,8 @@ Pure freelancing platforms.
 <!--lint enable awesome-list-item-->
 
 ## Directory
+- [openradar](https://openradar.fun) - Open aggregator of remote-friendly job vacancies and freelance orders (boards, RSS, Telegram, ATS) with free API, RSS and MCP.
+
 Other lists.
 - [awesome-job-boards](https://github.com/emredurukn/awesome-job-boards)
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
