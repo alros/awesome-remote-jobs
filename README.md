@@ -84,6 +84,7 @@ Other lists.
 - [Italia Remote](https://italiaremote.com/companies) - List of remote-friendly italian companies.
 - [Job&Careers](https://job.careers) - Free remote jobs from ATS like greenhouse, lever, workable etc.
 - [Jobgether](https://en.jobgether.com)
+- [Jobs Every Hour](https://jobseveryhour.com/remote/) - Remote and on-site jobs read hourly from company career pages (Greenhouse, Lever, Ashby and more).
 - [Jobs Factor](https://jobsfactor.eu)
 - [Jobspresso](https://jobspresso.co/)
 - [JSRemotely](https://jsremotely.com/) - Focus on JavaScript.
