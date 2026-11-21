@@ -125,7 +125,6 @@ Other lists.
 - [Remote Tech Jobs](https://www.remotetechjobs.io/)
 - [Remote World Jobs](https://remoteworldjobs.com) - 100% truly remote.
 - [RemoteWX](https://remotewx.com)
-- [RobotTraining.jobs](https://robottraining.jobs/) - Focus on training robots.
 - [Sailonchain](https://sailonchain.com) - Focus on cryptocurency.
 - [Skillsearch](https://www.skillsearch.com/) - Focus on gaming.
 - [Skip The Drive](https://www.skipthedrive.com)
@@ -159,6 +158,7 @@ Not the first choice to find remote jobs in software development, but still usef
 - [Monster](https://www.monster.com)
 - [People-First Jobs](https://peoplefirstjobs.com)
 - [RemoteHub](https://www.remotehub.com)
+- [RobotTraining.jobs](https://robottraining.jobs/) - Focus on training robots.
 - [Smart Remote Jobs](https://www.smartremotejobs.com)
 - [Teachaway](https://www.teachaway.com/) - For teachers.
 - [What Jobs](https://www.whatjobs.com/) - US and France.
