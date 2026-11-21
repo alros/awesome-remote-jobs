@@ -79,7 +79,7 @@ Other lists.
 - [Eures](https://eures.europa.eu/index_en) - By the EU Commission.
 - [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
 - [Found.dev](https://found.dev/)
-- [FoundRole](https://foundrole.com/) - Focus on Texas.
+- [FoundRole](https://foundrole.com/) - Search remote jobs worldwide and track applications.
 - [Hitmarker](https://hitmarker.net/) - Focus on gaming.
 - [Hubstaff Talent](https://hubstafftalent.net)
 - [Gamejob.co](https://gamejobs.co/) - Focus on gaming.
