@@ -54,13 +54,15 @@ Other lists.
 - [We Work Remotely](https://weworkremotely.com)
 - [Welcome To The Jungle](https://global.welcometothejungle.com) - Former [Otta](https://otta.com)
 - [Wellfound (AngelList Talent)](https://angel.co/) - Startups.
-- [Work at a Startup](https://www.workatastartup.com) - Y-Combinator
+- [Work at a Startup](https://www.workatastartup.com) - Y-Combinator.
 - [YCombinator](https://www.ycombinator.com/jobs/role/all/remote/)
 - [YCombinator Co‑Founder Matching](https://www.ycombinator.com/cofounder-matching)
 
 ## Other websites
 - [4 day week](https://4dayweek.io/)
 - [ArbeitNow](https://www.arbeitnow.com) - Focus on Germany.
+- [ArtStation](https://www.artstation.com/jobs/all) - Focus on gaming.
+- [ASGC Game Career Resources](https://jobs.asgc.gg/) - Focus on gaming.
 - [Authentic Jobs](https://authenticjobs.com)
 - [Career Vault](https://www.careervault.io) - Companies that prioritize employee well-being.
 - [Climatebase](https://climatebase.org/)
@@ -69,6 +71,7 @@ Other lists.
 - [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/) - Focus on crypto.
 - [Daily Remote](https://dailyremote.com)
 - [Data Science Jobs](https://datasciencejobs.com) - Focus on data science.
+- [Devquest](https://devquest.gg/) - Focus on gaming.
 - [Devsdata](https://devsdata.com/careers/)
 - [Echojobs](https://echojobs.io)
 - [EU Remote Jobs](https://euremotejobs.com) - Focus on Europe.
@@ -76,8 +79,12 @@ Other lists.
 - [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
 - [Found.dev](https://found.dev/)
 - [FoundRole](https://foundrole.com/) - Focus on Texas.
+- [Hitmarker](https://hitmarker.net/) - Focus on gaming.
 - [Hubstaff Talent](https://hubstafftalent.net)
+- [Gamejob.co](https://gamejobs.co/) - Focus on gaming.
 - [Gamejob.works](https://gamejobs.work) - Focus on gaming.
+- [Games Job Direct](https://www.gamesjobsdirect.com/) - Focus on gaming.
+- [Games Job Index](https://gamesjobsindex.com/) - Focus on gaming.
 - [Hack A Job](https://hackajob.co/)
 - [Inclusively Remote](https://inclusivelyremote.com/)
 - [Infosec Jobs](https://infosec-jobs.com/) - Focus on cybersecurity.
@@ -106,6 +113,7 @@ Other lists.
 - [Remote.co](https://remote.co)
 - [Remote Army](https://remotearmy.io/)
 - [Remote Front](https://www.remotefront.com) - Mostly US-based.
+- [Remote Game Jobs](https://remotegamejobs.com/) - Focus on gaming.
 - [Remote Leaf](https://remoteleaf.com/) - Newsletter, subscription-based.
 - [Remote Junkie](https://jobs.remoteworkjunkie.com) - Mostly US-based.
 - [Remote Rocketship](https://www.remoterocketship.com)
@@ -116,6 +124,7 @@ Other lists.
 - [Remote World Jobs](https://remoteworldjobs.com) - 100% truly remote.
 - [RemoteWX](https://remotewx.com)
 - [Sailonchain](https://sailonchain.com) - Focus on cryptocurency.
+- [Skillsearch](https://www.skillsearch.com/) - Focus on gaming.
 - [Skip The Drive](https://www.skipthedrive.com)
 - [Snaphunt](https://snaphunt.com)
 - [Space Crew](https://spacecrew.com) - Focus on the Space industry.
@@ -131,6 +140,7 @@ Other lists.
 - [Venture Loop](https://www.ventureloop.com)
 - [Virtual Vocation](https://www.virtualvocations.com/) - Subscription required, focus on USA.
 - [Welyk](https://recruiting.welyk.tech/) - Focus on Italy.
+- [Work With Indies](https://www.workwithindies.com) - Focus on gaming.
 - [Working Nomads](https://www.workingnomads.com/jobs)
 - [Xing](https://www.xing.com/) - Focus on Germany.
 
