@@ -89,6 +89,7 @@ Other lists.
 - [Inclusively Remote](https://inclusivelyremote.com/)
 - [Infosec Jobs](https://infosec-jobs.com/) - Focus on cybersecurity.
 - [Italia Remote](https://italiaremote.com/companies) - List of remote-friendly italian companies.
+- [Jaabz](https://jaabz.com/jobs/remote)
 - [Job&Careers](https://job.careers) - Free remote jobs from ATS like greenhouse, lever, workable etc.
 - [Jobgether](https://en.jobgether.com)
 - [Jobs Factor](https://jobsfactor.eu)
@@ -117,12 +118,14 @@ Other lists.
 - [Remote Leaf](https://remoteleaf.com/) - Newsletter, subscription-based.
 - [Remote Junkie](https://jobs.remoteworkjunkie.com) - Mostly US-based.
 - [Remote Rocketship](https://www.remoterocketship.com)
+- [Remote1stJobs](https://www.remote1stjobs.com/)
 - [RemoteFetch](https://remotefetch.com/) - Mostly US-based.
 - [Remoters me](https://www.remoters.me)
 - [Remotesome](https://www.remotesome.com)
 - [Remote Tech Jobs](https://www.remotetechjobs.io/)
 - [Remote World Jobs](https://remoteworldjobs.com) - 100% truly remote.
 - [RemoteWX](https://remotewx.com)
+- [RobotTraining.jobs](https://robottraining.jobs/) - Focus on training robots.
 - [Sailonchain](https://sailonchain.com) - Focus on cryptocurency.
 - [Skillsearch](https://www.skillsearch.com/) - Focus on gaming.
 - [Skip The Drive](https://www.skipthedrive.com)
