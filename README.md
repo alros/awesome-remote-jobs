@@ -5,8 +5,8 @@ List of job boards focused on software engineering and remote jobs.
 ## Index
 <!--lint disable awesome-list-item-->
 - [Freelance Marketplaces](#freelance-marketplaces)
-- [Startups](#Startups)
 - [Directory](#directory)
+- [Most recommended](#most-recommended)
 - [Other websites](#other-websites)
 - [Misc](#misc)
 <!--lint enable awesome-list-item-->
@@ -39,56 +39,71 @@ Other lists.
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 - [Job Board Search](https://jobboardsearch.com/) - Lists of job boards.
 
-## Startups
-- [DMtheFounder](https://dmthefounder.com/) - Early engineering roles posted by startup founders on X and Hacker News.
-- [Fucking Startup Jobs](https://www.fuckingstartupjobs.com)
+## Most recommended
+(Those that popup up more often on socials)
+- [BuiltIn](https://builtin.com/)
+- [Cord](https://cord.co/) - Mostly UK-based.
+- [Dice](https://www.dice.com)
+- [Dynamite Jobs](https://dynamitejobs.com/) - 100% remote from remote-first companies.
+- [Flexa](https://flexa.careers/) - Reviews of remote-friendly companies.
+- [LinkedIn](https://www.linkedin.com/jobs/)
+- [NoDesk](https://nodesk.co)
+- [Remote Ok](https://remoteok.com)
+- [Remotive](https://remotive.com)
+- [Underdog](https://underdog.io/) - Focus on startups in the US.
+- [We Work Remotely](https://weworkremotely.com)
+- [Welcome To The Jungle](https://global.welcometothejungle.com) - Former [Otta](https://otta.com)
 - [Wellfound (AngelList Talent)](https://angel.co/) - Startups.
+- [Work at a Startup](https://www.workatastartup.com) - Y-Combinator.
 - [YCombinator](https://www.ycombinator.com/jobs/role/all/remote/)
 - [YCombinator Co‑Founder Matching](https://www.ycombinator.com/cofounder-matching)
 
 ## Other websites
 - [4 day week](https://4dayweek.io/)
 - [ArbeitNow](https://www.arbeitnow.com) - Focus on Germany.
+- [ArtStation](https://www.artstation.com/jobs/all) - Focus on gaming.
+- [ASGC Game Career Resources](https://jobs.asgc.gg/) - Focus on gaming.
 - [Authentic Jobs](https://authenticjobs.com)
-- [BuiltIn](https://builtin.com/)
 - [Career Vault](https://www.careervault.io) - Companies that prioritize employee well-being.
 - [Climatebase](https://climatebase.org/)
-- [Cord](https://cord.co/) - Mostly UK-based.
 - [Crossover](https://www.crossover.com/)
 - [Crunchboard](https://www.crunchboard.com/) - US.
 - [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/) - Focus on crypto.
 - [Daily Remote](https://dailyremote.com)
-- [Dice](https://www.dice.com)
 - [Data Science Jobs](https://datasciencejobs.com) - Focus on data science.
+- [Devquest](https://devquest.gg/) - Focus on gaming.
 - [Devsdata](https://devsdata.com/careers/)
-- [Dynamite Jobs](https://dynamitejobs.com/) - 100% remote from remote-first companies.
+- [DMtheFounder](https://dmthefounder.com/) - Early engineering roles posted by startup founders on X and Hacker News.
 - [Echojobs](https://echojobs.io)
-- [EU Remote Jobs](https://euremotejobs.com)
+- [EU Remote Jobs](https://euremotejobs.com) - Focus on Europe.
 - [Eures](https://eures.europa.eu/index_en) - By the EU Commission.
 - [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
-- [Flexa](https://flexa.careers/) - Reviews of remote-friendly companies.
 - [Found.dev](https://found.dev/)
 - [FoundRole](https://foundrole.com/) - Focus on Texas.
+- [Hitmarker](https://hitmarker.net/) - Focus on gaming.
 - [Hubstaff Talent](https://hubstafftalent.net)
+- [Gamejob.co](https://gamejobs.co/) - Focus on gaming.
 - [Gamejob.works](https://gamejobs.work) - Focus on gaming.
+- [Games Job Direct](https://www.gamesjobsdirect.com/) - Focus on gaming.
+- [Games Job Index](https://gamesjobsindex.com/) - Focus on gaming.
 - [Hack A Job](https://hackajob.co/)
 - [Inclusively Remote](https://inclusivelyremote.com/)
 - [Infosec Jobs](https://infosec-jobs.com/) - Focus on cybersecurity.
 - [Italia Remote](https://italiaremote.com/companies) - List of remote-friendly italian companies.
+- [Jaabz](https://jaabz.com/jobs/remote)
 - [Job&Careers](https://job.careers) - Free remote jobs from ATS like greenhouse, lever, workable etc.
 - [Jobgether](https://en.jobgether.com)
 - [Jobs Factor](https://jobsfactor.eu)
 - [Jobspresso](https://jobspresso.co/)
 - [JSRemotely](https://jsremotely.com/) - Focus on JavaScript.
+- [Justjoin.it](https://justjoin.it/) - Focus on tech in Europe.
 - [JustRemote](https://justremote.co)
 - [Landing Jobs](https://landing.jobs)
 - [Lenny's Jobs](https://www.lennysjobs.com/)
-- [LinkedIn](https://www.linkedin.com/jobs/)
 - [Long Journey Ventures](https://www.longjourney.vc/) - US.
 - [Meet Frank](https://meetfrank.com)
 - [Naukri](https://www.naukri.com) - India.
 - [NoCommute](https://www.nocommutejob.com/) - Newsletter, with subscription.
-- [NoDesk](https://nodesk.co)
 - [OfferZen](https://www.offerzen.com)
 - [OmniJobs](https://omnijobs.io)
 - [Open To Work Remotely](https://www.opentoworkremote.com/)
@@ -100,18 +115,20 @@ Other lists.
 - [Remote.co](https://remote.co)
 - [Remote Army](https://remotearmy.io/)
 - [Remote Front](https://www.remotefront.com) - Mostly US-based.
+- [Remote Game Jobs](https://remotegamejobs.com/) - Focus on gaming.
 - [Remote Leaf](https://remoteleaf.com/) - Newsletter, subscription-based.
 - [Remote Junkie](https://jobs.remoteworkjunkie.com) - Mostly US-based.
-- [Remote Ok](https://remoteok.com)
 - [Remote Rocketship](https://www.remoterocketship.com)
+- [Remote1stJobs](https://www.remote1stjobs.com/)
 - [RemoteFetch](https://remotefetch.com/) - Mostly US-based.
 - [Remoters me](https://www.remoters.me)
 - [Remotesome](https://www.remotesome.com)
 - [Remote Tech Jobs](https://www.remotetechjobs.io/)
 - [Remote World Jobs](https://remoteworldjobs.com) - 100% truly remote.
 - [RemoteWX](https://remotewx.com)
-- [Remotive](https://remotive.com)
+- [RobotTraining.jobs](https://robottraining.jobs/) - Focus on training robots.
 - [Sailonchain](https://sailonchain.com) - Focus on cryptocurency.
+- [Skillsearch](https://www.skillsearch.com/) - Focus on gaming.
 - [Skip The Drive](https://www.skipthedrive.com)
 - [Snaphunt](https://snaphunt.com)
 - [Space Crew](https://spacecrew.com) - Focus on the Space industry.
@@ -124,12 +141,10 @@ Other lists.
 - [Trueup](https://www.trueup.io/)
 - [Truly Remote](https://trulyremote.co)
 - [Trust In Soda](https://www.trustinsoda.com/jobs)
-- [Underdog](https://underdog.io/) - Focus on startups in the US.
 - [Venture Loop](https://www.ventureloop.com)
 - [Virtual Vocation](https://www.virtualvocations.com/) - Subscription required, focus on USA.
-- [We Work Remotely](https://weworkremotely.com)
-- [Welcome To The Jungle](https://global.welcometothejungle.com) - Former [Otta](https://otta.com)
 - [Welyk](https://recruiting.welyk.tech/) - Focus on Italy.
+- [Work With Indies](https://www.workwithindies.com) - Focus on gaming.
 - [Working Nomads](https://www.workingnomads.com/jobs)
 - [Xing](https://www.xing.com/) - Focus on Germany.
 
@@ -149,3 +164,7 @@ Not the first choice to find remote jobs in software development, but still usef
 - [Teachaway](https://www.teachaway.com/) - For teachers.
 - [What Jobs](https://www.whatjobs.com/) - US and France.
 - [Woody](https://www.woodyjobs.com) - Creative, design, games, social, and more.
+
+## Inactive (?)
+- [Fucking Startup Jobs](https://www.fuckingstartupjobs.com)
+
