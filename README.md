@@ -127,6 +127,7 @@ Other lists.
 - [Skillsearch](https://www.skillsearch.com/) - Focus on gaming.
 - [Skip The Drive](https://www.skipthedrive.com)
 - [Snaphunt](https://snaphunt.com)
+- [Sottava](https://sottava.com/jobs/remote) - Remote tech jobs open to Europe, read hourly from companies' own hiring systems.
 - [Space Crew](https://spacecrew.com) - Focus on the Space industry.
 - [Still Hiring Today](https://stillhiring.today/)
 - [Still Open](https://stillopen.work/)
