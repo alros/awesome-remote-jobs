@@ -76,6 +76,7 @@ Other lists.
 - [DMtheFounder](https://dmthefounder.com/) - Early engineering roles posted by startup founders on X and Hacker News.
 - [Echojobs](https://echojobs.io)
 - [EU Remote Jobs](https://euremotejobs.com) - Focus on Europe.
+- [EuroJobs.ai](https://eurojobs.ai) - 28,000+ IT jobs across Europe aggregated hourly from employer career pages. Filters for visa sponsorship, remote, country, and English-speaking teams.
 - [Eures](https://eures.europa.eu/index_en) - By the EU Commission.
 - [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
 - [Found.dev](https://found.dev/)
